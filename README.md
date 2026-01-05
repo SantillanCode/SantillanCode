@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fernando Santillán</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate QA Automation Engineer</h3>
 
-- 🌱 I’m currently learning **REACT and SAP ABAP**
+- 🌱 I’m currently learning **Selenium**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT AND PYTHON**
+- 💬 Ask me about **HTML, CSS, SQL, Selenium, Postman, Android Studio, JavaScript AND Python**
 
 - 📫 How to reach me **www.linkedin.com/in/fernando-santillán**
 
